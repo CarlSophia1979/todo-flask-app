@@ -4,37 +4,36 @@ A simple to-do list web app built with **Python Flask**, **SQLite**, and **HTML/
 
 ---
 
-## Features
+## 🔧 Features
 
-- Add and delete tasks
-- Tasks are saved using a local SQLite database
-- Styled with basic CSS
-- Easy to run locally
-
----
-
-## Screenshot
-
-![image](https://github.com/user-attachments/assets/b659f442-f32b-410f-94c6-82d8540bd714)
-![image](https://github.com/user-attachments/assets/1b6284c8-928c-4b4d-8268-90597a198d6d)
-
+- Add and delete tasks  
+- Tasks are saved using a local SQLite database  
+- Styled with basic CSS  
+- Easy to run locally  
 
 ---
 
-## Tech Stack
+## 🖼️ Screenshot
 
-- **Python 3**
-- **Flask**
-- **SQLite**
-- **HTML / CSS**
+![image](https://github.com/user-attachments/assets/5c2c0a73-7d14-4567-8ea8-201fd74053d8)
+![image](https://github.com/user-attachments/assets/72aa8ca2-8a42-4267-99be-c21aa9764937)
+
 
 ---
 
-## Run Locally
+## 🧰 Tech Stack
 
-Clone the project:
+- Python 3  
+- Flask  
+- SQLite  
+- HTML/CSS  
 
-```bash
-git clone https://github.com/CarlSophia1979/todo-flask-app.git
-cd todo-flask-app
+---
+
+## 🚀 How to Run
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/CarlSophia1979/todo-flask-app.git
+
 
